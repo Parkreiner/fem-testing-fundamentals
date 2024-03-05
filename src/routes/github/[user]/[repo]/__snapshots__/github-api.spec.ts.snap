@@ -1,0 +1,8 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`github-api > getRepository > should return repository information 1`] = `
+{
+  "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting",
+  "message": "API rate limit exceeded for 204.16.241.141. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+}
+`;
